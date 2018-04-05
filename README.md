@@ -6,15 +6,11 @@ Ruby gem for interactive with Camunda BPM REST API.
 
 Add this line to your application's Gemfile:
 
-    gem 'ruby-camunda'
+    gem 'ruby-camunda', github: 'lafeber/ruby-camunda'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install ruby-camunda
 
 ## Usage
 

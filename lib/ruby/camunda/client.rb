@@ -1,4 +1,4 @@
-require 'rest_client'
+require 'rest-client'
 
 module Ruby
   module Camunda
@@ -186,4 +186,3 @@ module Ruby
     end
   end
 end
-

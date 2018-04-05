@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
 
   spec.add_dependency "faraday"
-  spec.add_dependency "rest_client"
+  spec.add_dependency "rest-client"
 end
